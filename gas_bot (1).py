@@ -4,8 +4,8 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "8703894037:AAEUJUcDQnJsP1PI6W22diDnSsLW_i6CMgg"
-ADMIN_CHAT_ID = 6267432226
+BOT_TOKEN = 
+ADMIN_CHAT_ID 
 
 PRODUCTS = {
     "metan_60": {"name": "🟢 Metan balon 60L", "price": 150},
